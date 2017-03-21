@@ -24,9 +24,11 @@ tree.delete(value)
 tree.find(value) 
 ### Printing
 -Prints the tree, layer-by-layer
+
 tree.printTree()
 ### Flatten
 -Returns a list of the values in the BST from least to greatest
+
 tree.flatten()
 
 ## License
